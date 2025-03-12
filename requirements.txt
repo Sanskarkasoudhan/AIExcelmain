@@ -7,14 +7,13 @@ llama-index-embeddings-fastembed
 llama-index-embeddings-gemini
 llama-index-embeddings-openai
 llama-index-llms-groq
+llama-index-llms-google
 llama-index-llms-openai
 llama-index-vector-stores-faiss
 llama-index-vector-stores-qdrant
 llama-parse
 openpyxl
 python-dotenv
-qdrant_client
+qdrant-client
 streamlit
 unstructured
-llama-index-llms-google
-
