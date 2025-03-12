@@ -1,0 +1,25 @@
+faiss-cpu
+fastembed
+google-generativeai
+# google-generativeai=0.8.4
+langchain-community
+# langchain-google-genai=2.0.11
+langchain=0.3.20
+llama-index
+llama-index-embeddings-fastembed
+llama-index-embeddings-gemini
+llama-index-embeddings-openai
+llama-index-llms-groq
+llama-index-llms-openai
+llama-index-vector-stores-faiss
+llama-index-vector-stores-qdrant
+llama-parse
+openpyxl
+# openpyxl=3.1.5
+pandas=2.2.3
+pandasai
+pandasai-google
+python-dotenv=1.0.1
+qdrant_client
+streamlit=1.42.2
+unstructured
