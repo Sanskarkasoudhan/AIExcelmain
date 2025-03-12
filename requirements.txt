@@ -16,4 +16,3 @@ python-dotenv
 qdrant_client
 streamlit
 unstructured
-pip install llama-index
