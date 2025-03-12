@@ -16,3 +16,5 @@ python-dotenv
 qdrant_client
 streamlit
 unstructured
+llama-index-llms-google
+
