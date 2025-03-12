@@ -23,3 +23,4 @@ python-dotenv=1.0.1
 qdrant_client
 streamlit=1.42.2
 unstructured
+pip install llama-index
