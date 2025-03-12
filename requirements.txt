@@ -12,9 +12,8 @@ llama-index-vector-stores-faiss
 llama-index-vector-stores-qdrant
 llama-parse
 openpyxl
-pandas=2.2.3
-python-dotenv=1.0.1
+python-dotenv
 qdrant_client
-streamlit=1.42.2
+streamlit
 unstructured
 pip install llama-index
