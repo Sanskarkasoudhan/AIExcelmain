@@ -1,9 +1,10 @@
-streamlit
+fastembed
 llama-index
-llama-index-core
 llama-index-embeddings-fastembed
+llama-index-embeddings-gemini
 llama-index-llms-gemini
 llama-index-vector-stores-qdrant
 llama-parse
-qdrant-client
 python-dotenv
+qdrant_client
+streamlit
