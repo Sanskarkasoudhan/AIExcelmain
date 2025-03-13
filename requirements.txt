@@ -8,3 +8,4 @@ llama-parse
 python-dotenv
 qdrant_client
 streamlit
+openpyxl
