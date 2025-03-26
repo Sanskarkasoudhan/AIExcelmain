@@ -10,3 +10,4 @@ qdrant_client
 streamlit
 openpyxl
 pandas
+fuzzywuzzy
