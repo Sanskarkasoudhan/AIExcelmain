@@ -25,8 +25,8 @@ Excel AI Assistant is a Streamlit-based application that enables users to upload
 ## 🔧 Setup Instructions
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Sanskarkasoudhan/excel-ai-assistant.git
-cd excel-ai-assistant
+git clone https://github.com/Sanskarkasoudhan/AIExcelmain.git
+cd AIExcelmain
 ```
 
 ### 2️⃣ Install Dependencies
